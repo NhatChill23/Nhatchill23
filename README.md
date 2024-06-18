@@ -1,3 +1,11 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+NhatChill....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💞️ I’m looking to collaborate on ...
@@ -37,15 +45,14 @@
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
 ---
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
 
 ### StarDev Ranking
 
 <a href="https://stardev.io/developers/Nhatchilll"><img alt="Check out Nhatchilll's profile on stardev.io" src="https://stardev.io/developers/Nhatchilll/badge/languages/global.svg" /></a>
-
----
-
-### Top Usage Languages:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
