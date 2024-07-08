@@ -48,7 +48,6 @@
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/Nhatchilll"><img alt="Check out Nhatchilll's profile on stardev.io" src="https://stardev.io/developers/Nhatchilll/badge/languages/global.svg" /></a>
 
 ---
 
